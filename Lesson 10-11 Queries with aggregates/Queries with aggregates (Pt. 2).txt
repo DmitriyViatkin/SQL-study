@@ -1,4 +1,4 @@
-Lesson 10: Queries with aggregates (Pt. 2)
+Lesson 11: Queries with aggregates (Pt. 2)
 
 
 Tasks 1 
